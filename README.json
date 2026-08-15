@@ -43,7 +43,7 @@
             "last_commit": "2024-04-29T01:30:45Z",
             "owner": "kzl",
             "repo": "decision-transformer",
-            "stars": 2827
+            "stars": 2829
           }
         },
         {
@@ -85,7 +85,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T23:42:33.469Z",
+    "last_updated": "2026-08-15T23:40:10.342Z",
     "original_repository": "mbzuai-oryx/Awesome-LLM-Post-training",
     "original_repository_sha": "69a2e105d9afd9865a0895e7fec6b9601e07144a",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Post-training",
