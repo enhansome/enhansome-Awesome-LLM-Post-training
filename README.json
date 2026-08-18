@@ -29,7 +29,7 @@
             "last_commit": "2024-02-06T02:34:32Z",
             "owner": "ysymyth",
             "repo": "ReAct",
-            "stars": 4109
+            "stars": 4112
           }
         },
         {
@@ -57,7 +57,7 @@
             "last_commit": "2023-07-25T16:48:57Z",
             "owner": "openai",
             "repo": "lm-human-preferences",
-            "stars": 1392
+            "stars": 1391
           }
         }
       ],
@@ -85,7 +85,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T23:42:20.344Z",
+    "last_updated": "2026-08-18T23:42:02.784Z",
     "original_repository": "mbzuai-oryx/Awesome-LLM-Post-training",
     "original_repository_sha": "69a2e105d9afd9865a0895e7fec6b9601e07144a",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Post-training",
