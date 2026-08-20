@@ -17,7 +17,7 @@
                 "last_commit": "2024-02-06T02:34:32Z",
                 "owner": "ysymyth",
                 "repo": "ReAct",
-                "stars": 4113
+                "stars": 4114
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2024-04-29T01:30:45Z",
                 "owner": "kzl",
                 "repo": "decision-transformer",
-                "stars": 2829
+                "stars": 2830
               }
             },
             {
@@ -60,7 +60,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T23:42:37.137Z",
+    "last_updated": "2026-08-20T23:45:36.520Z",
     "original_repository": "mbzuai-oryx/Awesome-LLM-Post-training",
     "original_repository_id": 932076703,
     "original_repository_sha": "69a2e105d9afd9865a0895e7fec6b9601e07144a",
