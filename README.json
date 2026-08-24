@@ -104,10 +104,10 @@
                 "archived": false,
                 "id": 250510075,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:59:53Z",
+                "last_commit": "2026-08-24T20:31:01Z",
                 "owner": "huggingface",
                 "repo": "trl",
-                "stars": 19144
+                "stars": 19145
               }
             },
             {
@@ -179,10 +179,10 @@
                 "archived": false,
                 "id": 881221486,
                 "language": "Python",
-                "last_commit": "2026-08-24T11:46:27Z",
+                "last_commit": "2026-08-24T14:11:26Z",
                 "owner": "verl-project",
                 "repo": "verl",
-                "stars": 23104
+                "stars": 23108
               }
             },
             {
@@ -227,7 +227,7 @@
                 "last_commit": "2026-08-20T10:53:39Z",
                 "owner": "hiyouga",
                 "repo": "LlamaFactory",
-                "stars": 74310
+                "stars": 74320
               }
             }
           ],
@@ -314,7 +314,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:06:01.157Z",
+    "last_updated": "2026-08-24T23:42:07.822Z",
     "original_repository": "mbzuai-oryx/Awesome-LLM-Post-training",
     "original_repository_id": 932076703,
     "original_repository_sha": "69a2e105d9afd9865a0895e7fec6b9601e07144a",
