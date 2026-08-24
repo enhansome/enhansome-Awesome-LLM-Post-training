@@ -7,6 +7,260 @@
           "children": [
             {
               "node_type": "item",
+              "title": "1",
+              "description": "RL4VLM Archived & Read-Only as of December 15, 2024 Offers code for fine-tuning large vision-language models as decision-making agents via RL. Includes implementations for training models with task-specific rewards and evaluating them in various environments.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 797546953,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-12-15T22:42:04Z",
+                "owner": "RL4VLM",
+                "repo": "RL4VLM",
+                "stars": 417
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2",
+              "description": "LlamaGym Simplifies fine-tuning large language model (LLM) agents with online RL. Provides an abstract class to handle various aspects of RL training, allowing for quick iteration and experimentation across different environments.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 765496406,
+                "language": "Python",
+                "last_commit": "2024-03-19T17:34:28Z",
+                "owner": "KhoomeiK",
+                "repo": "LlamaGym",
+                "stars": 1254
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "3",
+              "description": "RL-Based Fine-Tuning of Diffusion Models for Biological Sequences Accompanies a tutorial and review paper on RL-based fine-tuning, focusing on the design of biological sequences (DNA/RNA). Provides comprehensive tutorials and code implementations for training and fine-tuning diffusion models using RL.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 826416399,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-09-15T06:46:57Z",
+                "owner": "masa-ue",
+                "repo": "RLfinetuning_Diffusion_Bioseq",
+                "stars": 160
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "4",
+              "description": "LM-RL-Finetune Aims to improve KL penalty optimization in RL fine-tuning of language models by computing the KL penalty term analytically. Includes configurations for training with Proximal Policy Optimization (PPO).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 618920356,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-04-30T02:17:49Z",
+                "owner": "zhixuan-lin",
+                "repo": "LM-RL-finetune",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "5",
+              "description": "InstructLLaMA Implements pre-training, supervised fine-tuning (SFT), and reinforcement learning from human feedback (RLHF) to train and fine-tune the LLaMA2 model to follow human instructions, similar to InstructGPT or ChatGPT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 663944322,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-03-09T15:39:45Z",
+                "owner": "michaelnny",
+                "repo": "InstructLLaMA",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "6",
+              "description": "SEIKO Introduces a novel RL method to efficiently fine-tune diffusion models in an online setting. Its techniques outperform baselines such as PPO, classifier-based guidance, and direct reward backpropagation for fine-tuning Stable Diffusion.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 820253411,
+                "language": "Python",
+                "last_commit": "2024-07-18T23:18:45Z",
+                "owner": "zhaoyl18",
+                "repo": "SEIKO",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "7",
+              "description": "TRL (Train Transformer Language Models with RL) A state-of-the-art library for post-training foundation models using methods like Supervised Fine-Tuning (SFT), Proximal Policy Optimization (PPO), GRPO, and Direct Preference Optimization (DPO). Built on the 🤗 Transformers ecosystem, it supports multiple model architectures and scales efficiently across hardware setups.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 250510075,
+                "language": "Python",
+                "last_commit": "2026-08-24T13:59:53Z",
+                "owner": "huggingface",
+                "repo": "trl",
+                "stars": 19144
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "8",
+              "description": "Fine-Tuning Reinforcement Learning Models as Continual Learning Explores fine-tuning RL models as a forgetting mitigation problem (continual learning). Provides insights and code implementations to address forgetting in RL models.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 804771059,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-05-23T09:01:11Z",
+                "owner": "BartekCupial",
+                "repo": "finetuning-RL-as-CL",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "9",
+              "description": "RL4LMs A modular RL library to fine-tune language models to human preferences. Rigorously evaluated through 2000+ experiments using the GRUE benchmark, ensuring robustness across various NLP tasks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 526069335,
+                "language": "Python",
+                "last_commit": "2024-03-01T14:03:46Z",
+                "owner": "allenai",
+                "repo": "RL4LMs",
+                "stars": 2394
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "10",
+              "description": "Lamorel A high-throughput, distributed architecture for seamless LLM integration in interactive environments. While not specialized in RL or RLHF by default, it supports custom implementations and is ideal for users needing maximum flexibility.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 596171999,
+                "language": "Python",
+                "last_commit": "2025-12-11T18:02:46Z",
+                "owner": "flowersteam",
+                "repo": "lamorel",
+                "stars": 249
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "11",
+              "description": "LLM-Reverse-Curriculum-RL Implements the ICML 2024 paper \"Training Large Language Models for Reasoning through Reverse Curriculum Reinforcement Learning\". Focuses on enhancing LLM reasoning capabilities using a reverse curriculum RL approach.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 754690615,
+                "language": "Python",
+                "last_commit": "2024-02-09T11:35:06Z",
+                "owner": "WooooDyy",
+                "repo": "LLM-Reverse-Curriculum-RL",
+                "stars": 117
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "12",
+              "description": "veRL A flexible, efficient, and production-ready RL training library for large language models (LLMs). Serves as the open-source implementation of the HybridFlow framework and supports various RL algorithms (PPO, GRPO), advanced resource utilization, and scalability up to 70B models on hundreds of GPUs. Integrates with Hugging Face models, supervised fine-tuning, and RLHF with multiple reward types.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 881221486,
+                "language": "Python",
+                "last_commit": "2026-08-24T11:46:27Z",
+                "owner": "verl-project",
+                "repo": "verl",
+                "stars": 23104
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "13",
+              "description": "trlX A distributed training framework for fine-tuning large language models (LLMs) with reinforcement learning. Supports both Accelerate and NVIDIA NeMo backends, allowing training of models up to 20B+ parameters. Implements PPO and ILQL, and integrates with CHEESE for human-in-the-loop data collection.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 545104023,
+                "language": "Python",
+                "last_commit": "2024-01-08T20:07:19Z",
+                "owner": "CarperAI",
+                "repo": "trlx",
+                "stars": 4754
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "14",
+              "description": "Okapi A framework for instruction tuning in LLMs with RLHF, supporting 26 languages. Provides multilingual resources such as ChatGPT prompts, instruction datasets, and response ranking data, along with both BLOOM-based and LLaMa-based models and evaluation benchmarks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 671817459,
+                "language": "Python",
+                "last_commit": "2023-08-18T10:43:17Z",
+                "owner": "nlp-uoregon",
+                "repo": "Okapi",
+                "stars": 96
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "15",
+              "description": "LLaMA-Factory Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024). Supports a wide array of models (e.g., LLaMA, LLaVA, Qwen, Mistral) with methods including pre-training, multimodal fine-tuning, reward modeling, PPO, DPO, and ORPO. Offers scalable tuning (16-bit, LoRA, QLoRA) with advanced optimizations and logging integrations, and provides fast inference via API, Gradio UI, and CLI with vLLM workers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 646410686,
+                "language": "Python",
+                "last_commit": "2026-08-20T10:53:39Z",
+                "owner": "hiyouga",
+                "repo": "LlamaFactory",
+                "stars": 74310
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🚀 RL & LLM Fine-Tuning Repositories"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Colon-X: Advancing Intelligent Colonoscopy from Multimodal Understanding to Clinical Reasoning (Medical Understanding & Reasoning) [Paper]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1110097264,
+                "language": "Python",
+                "last_commit": "2026-05-02T04:18:07Z",
+                "owner": "ai4colonoscopy",
+                "repo": "Colon-X",
+                "stars": 23
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "⚡ Applications & Benchmarks"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "🔹 ReAct (GitHub)",
               "description": null,
               "children": [],
@@ -17,7 +271,7 @@
                 "last_commit": "2024-02-06T02:34:32Z",
                 "owner": "ysymyth",
                 "repo": "ReAct",
-                "stars": 4116
+                "stars": 4120
               }
             },
             {
@@ -60,7 +314,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:41:14.228Z",
+    "last_updated": "2026-08-24T14:06:01.157Z",
     "original_repository": "mbzuai-oryx/Awesome-LLM-Post-training",
     "original_repository_id": 932076703,
     "original_repository_sha": "69a2e105d9afd9865a0895e7fec6b9601e07144a",
