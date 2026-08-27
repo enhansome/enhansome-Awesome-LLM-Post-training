@@ -104,10 +104,10 @@
                 "archived": false,
                 "id": 250510075,
                 "language": "Python",
-                "last_commit": "2026-08-27T03:49:33Z",
+                "last_commit": "2026-08-27T11:07:11Z",
                 "owner": "huggingface",
                 "repo": "trl",
-                "stars": 19157
+                "stars": 19158
               }
             },
             {
@@ -179,10 +179,10 @@
                 "archived": false,
                 "id": 881221486,
                 "language": "Python",
-                "last_commit": "2026-08-26T22:36:08Z",
+                "last_commit": "2026-08-27T09:34:36Z",
                 "owner": "verl-project",
                 "repo": "verl",
-                "stars": 23150
+                "stars": 23153
               }
             },
             {
@@ -224,10 +224,10 @@
                 "archived": false,
                 "id": 646410686,
                 "language": "Python",
-                "last_commit": "2026-08-26T21:14:26Z",
+                "last_commit": "2026-08-27T10:50:57Z",
                 "owner": "hiyouga",
                 "repo": "LlamaFactory",
-                "stars": 74387
+                "stars": 74393
               }
             }
           ],
@@ -271,7 +271,7 @@
                 "last_commit": "2024-02-06T02:34:32Z",
                 "owner": "ysymyth",
                 "repo": "ReAct",
-                "stars": 4123
+                "stars": 4126
               }
             },
             {
@@ -314,9 +314,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:34:02.610Z",
-    "original_repository": "mbzuai-oryx/Awesome-LLM-Post-training",
-    "original_repository_id": 932076703,
+    "last_updated": "2026-08-27T11:24:33.872Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 932076703,
+      "language": "Python",
+      "last_commit": "2026-07-27T13:26:23Z",
+      "owner": "mbzuai-oryx",
+      "repo": "Awesome-LLM-Post-training",
+      "stars": 2526
+    },
     "original_repository_sha": "69a2e105d9afd9865a0895e7fec6b9601e07144a",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Post-training",
     "enhanced_repository_description": null,
