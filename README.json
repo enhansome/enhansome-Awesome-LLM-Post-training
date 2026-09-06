@@ -161,11 +161,11 @@
                 "id": 250510075,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-05T00:39:34Z",
-                "open_issues": 327,
+                "last_commit": "2026-09-05T14:47:17Z",
+                "open_issues": 330,
                 "owner": "huggingface",
                 "repo": "trl",
-                "stars": 19224,
+                "stars": 19228,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:58:09.036Z"
@@ -281,10 +281,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-04T22:00:53Z",
-                "open_issues": 1228,
+                "open_issues": 1240,
                 "owner": "verl-project",
                 "repo": "verl",
-                "stars": 23299,
+                "stars": 23307,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:58:09.036Z"
@@ -305,7 +305,7 @@
                 "open_issues": 102,
                 "owner": "CarperAI",
                 "repo": "trlx",
-                "stars": 4753,
+                "stars": 4754,
                 "topics": [
                   "machine-learning",
                   "pytorch",
@@ -363,10 +363,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-04T08:15:24Z",
-                "open_issues": 1143,
+                "open_issues": 1145,
                 "owner": "hiyouga",
                 "repo": "LlamaFactory",
-                "stars": 74580,
+                "stars": 74591,
                 "topics": [
                   "agent",
                   "ai",
@@ -519,7 +519,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T01:07:35.988Z",
+    "last_updated": "2026-09-06T01:06:24.546Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Reasoning LLM Tutorial/Survey/Guide",
@@ -527,8 +527,8 @@
       "id": 932076703,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-07-27T13:26:23Z",
-      "open_issues": 15,
+      "last_commit": "2026-09-05T16:51:57Z",
+      "open_issues": 16,
       "owner": "mbzuai-oryx",
       "repo": "Awesome-LLM-Post-training",
       "stars": 2537,
@@ -541,7 +541,7 @@
         "scaling"
       ]
     },
-    "original_repository_sha": "69a2e105d9afd9865a0895e7fec6b9601e07144a",
+    "original_repository_sha": "d95a308fd99b7050e48d087c6845323860e6f946",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Post-training",
     "enhanced_repository_description": null,
     "title": "Awesome LLM Post-Training: A Deep Dive into Reasoning Large Language Models with stars"
