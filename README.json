@@ -161,11 +161,11 @@
                 "id": 250510075,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T20:13:14Z",
-                "open_issues": 306,
+                "last_commit": "2026-09-13T00:04:06Z",
+                "open_issues": 310,
                 "owner": "huggingface",
                 "repo": "trl",
-                "stars": 19288,
+                "stars": 19294,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:58:09.036Z"
@@ -281,10 +281,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-11T23:27:37Z",
-                "open_issues": 1219,
+                "open_issues": 1222,
                 "owner": "verl-project",
                 "repo": "verl",
-                "stars": 23394,
+                "stars": 23398,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:58:09.036Z"
@@ -363,10 +363,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-09T13:12:56Z",
-                "open_issues": 1150,
+                "open_issues": 1151,
                 "owner": "hiyouga",
                 "repo": "LlamaFactory",
-                "stars": 74713,
+                "stars": 74726,
                 "topics": [
                   "agent",
                   "ai",
@@ -456,7 +456,7 @@
                 "open_issues": 5,
                 "owner": "ysymyth",
                 "repo": "ReAct",
-                "stars": 4163,
+                "stars": 4164,
                 "topics": [
                   "decision-making",
                   "large-language-models",
@@ -519,7 +519,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T01:15:56.556Z",
+    "last_updated": "2026-09-13T01:10:52.983Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Reasoning LLM Tutorial/Survey/Guide",
