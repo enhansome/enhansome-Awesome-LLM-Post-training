@@ -161,11 +161,11 @@
                 "id": 250510075,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-28T19:18:51Z",
-                "open_issues": 291,
+                "last_commit": "2026-09-29T17:56:40Z",
+                "open_issues": 301,
                 "owner": "huggingface",
                 "repo": "trl",
-                "stars": 19413,
+                "stars": 19419,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:58:09.036Z"
@@ -280,11 +280,11 @@
                 "id": 881221486,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T01:52:18Z",
-                "open_issues": 1278,
+                "last_commit": "2026-09-29T23:50:22Z",
+                "open_issues": 1282,
                 "owner": "verl-project",
                 "repo": "verl",
-                "stars": 23678,
+                "stars": 23701,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:58:09.036Z"
@@ -363,10 +363,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-28T09:10:59Z",
-                "open_issues": 1157,
+                "open_issues": 1158,
                 "owner": "hiyouga",
                 "repo": "LlamaFactory",
-                "stars": 75159,
+                "stars": 75201,
                 "topics": [
                   "agent",
                   "ai",
@@ -415,7 +415,7 @@
                 "open_issues": 0,
                 "owner": "ai4colonoscopy",
                 "repo": "Colon-X",
-                "stars": 23,
+                "stars": 24,
                 "topics": [
                   "ai-healthcare",
                   "clinical-reasoning",
@@ -456,7 +456,7 @@
                 "open_issues": 5,
                 "owner": "ysymyth",
                 "repo": "ReAct",
-                "stars": 4196,
+                "stars": 4198,
                 "topics": [
                   "decision-making",
                   "large-language-models",
@@ -519,7 +519,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T02:36:39.913Z",
+    "last_updated": "2026-09-30T02:12:18.980Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Reasoning LLM Tutorial/Survey/Guide",
