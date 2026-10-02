@@ -63,7 +63,7 @@
                 "open_issues": 2,
                 "owner": "masa-ue",
                 "repo": "RLfinetuning_Diffusion_Bioseq",
-                "stars": 160,
+                "stars": 159,
                 "topics": [
                   "diffusion-models",
                   "rl"
@@ -161,11 +161,11 @@
                 "id": 250510075,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T20:12:45Z",
-                "open_issues": 284,
+                "last_commit": "2026-10-01T20:25:36Z",
+                "open_issues": 283,
                 "owner": "huggingface",
                 "repo": "trl",
-                "stars": 19423,
+                "stars": 19432,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:58:09.036Z"
@@ -280,11 +280,11 @@
                 "id": 881221486,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T17:33:57Z",
-                "open_issues": 1294,
+                "last_commit": "2026-10-01T14:52:05Z",
+                "open_issues": 1301,
                 "owner": "verl-project",
                 "repo": "verl",
-                "stars": 23711,
+                "stars": 23723,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:58:09.036Z"
@@ -363,10 +363,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-28T09:10:59Z",
-                "open_issues": 1161,
+                "open_issues": 1168,
                 "owner": "hiyouga",
                 "repo": "LlamaFactory",
-                "stars": 75237,
+                "stars": 75255,
                 "topics": [
                   "agent",
                   "ai",
@@ -456,7 +456,7 @@
                 "open_issues": 5,
                 "owner": "ysymyth",
                 "repo": "ReAct",
-                "stars": 4198,
+                "stars": 4199,
                 "topics": [
                   "decision-making",
                   "large-language-models",
@@ -519,7 +519,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T02:13:42.823Z",
+    "last_updated": "2026-10-02T02:19:55.480Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Reasoning LLM Tutorial/Survey/Guide",
