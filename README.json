@@ -161,7 +161,7 @@
                 "id": 250510075,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T20:25:38Z",
+                "last_commit": "2026-10-03T04:04:44Z",
                 "open_issues": 280,
                 "owner": "huggingface",
                 "repo": "trl",
@@ -281,10 +281,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T07:19:20Z",
-                "open_issues": 1307,
+                "open_issues": 1308,
                 "owner": "verl-project",
                 "repo": "verl",
-                "stars": 23732,
+                "stars": 23733,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:58:09.036Z"
@@ -366,7 +366,7 @@
                 "open_issues": 1171,
                 "owner": "hiyouga",
                 "repo": "LlamaFactory",
-                "stars": 75282,
+                "stars": 75285,
                 "topics": [
                   "agent",
                   "ai",
@@ -402,7 +402,7 @@
             {
               "node_type": "item",
               "title": "Colon-X: Advancing Intelligent Colonoscopy from Multimodal Understanding to Clinical Reasoning (Medical Understanding & Reasoning) [Paper]",
-              "description": "[Code]",
+              "description": "ai4colonoscopy/Colon-X",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -443,7 +443,7 @@
             {
               "node_type": "item",
               "title": "🔹 ReAct (GitHub)",
-              "description": null,
+              "description": "ysymyth/ReAct",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -470,7 +470,7 @@
             {
               "node_type": "item",
               "title": "🔹 Decision Transformer (GitHub)",
-              "description": null,
+              "description": "kzl/decision-transformer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -491,7 +491,7 @@
             {
               "node_type": "item",
               "title": "🔹 RLHF (GitHub)",
-              "description": null,
+              "description": "openai/lm-human-preferences",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -519,7 +519,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:06:50.710Z",
+    "last_updated": "2026-10-03T04:25:06.340Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Reasoning LLM Tutorial/Survey/Guide",
@@ -528,7 +528,7 @@
       "language": "Python",
       "license": null,
       "last_commit": "2026-09-05T16:51:57Z",
-      "open_issues": 20,
+      "open_issues": 21,
       "owner": "mbzuai-oryx",
       "repo": "Awesome-LLM-Post-training",
       "stars": 2565,
