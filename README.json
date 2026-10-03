@@ -161,11 +161,11 @@
                 "id": 250510075,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T20:25:36Z",
-                "open_issues": 283,
+                "last_commit": "2026-10-02T20:25:38Z",
+                "open_issues": 280,
                 "owner": "huggingface",
                 "repo": "trl",
-                "stars": 19432,
+                "stars": 19439,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:58:09.036Z"
@@ -280,11 +280,11 @@
                 "id": 881221486,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T14:52:05Z",
-                "open_issues": 1301,
+                "last_commit": "2026-10-02T07:19:20Z",
+                "open_issues": 1307,
                 "owner": "verl-project",
                 "repo": "verl",
-                "stars": 23723,
+                "stars": 23732,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:58:09.036Z"
@@ -363,10 +363,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-28T09:10:59Z",
-                "open_issues": 1168,
+                "open_issues": 1171,
                 "owner": "hiyouga",
                 "repo": "LlamaFactory",
-                "stars": 75255,
+                "stars": 75282,
                 "topics": [
                   "agent",
                   "ai",
@@ -519,7 +519,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T02:19:55.480Z",
+    "last_updated": "2026-10-03T02:06:50.710Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Reasoning LLM Tutorial/Survey/Guide",
