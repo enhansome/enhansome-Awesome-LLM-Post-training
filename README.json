@@ -161,11 +161,11 @@
                 "id": 250510075,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-04T02:31:35Z",
-                "open_issues": 277,
+                "last_commit": "2026-10-04T19:00:47Z",
+                "open_issues": 280,
                 "owner": "huggingface",
                 "repo": "trl",
-                "stars": 19445,
+                "stars": 19450,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:58:09.036Z"
@@ -281,10 +281,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-03T22:20:04Z",
-                "open_issues": 1311,
+                "open_issues": 1326,
                 "owner": "verl-project",
                 "repo": "verl",
-                "stars": 23740,
+                "stars": 23747,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:58:09.036Z"
@@ -366,7 +366,7 @@
                 "open_issues": 1171,
                 "owner": "hiyouga",
                 "repo": "LlamaFactory",
-                "stars": 75298,
+                "stars": 75313,
                 "topics": [
                   "agent",
                   "ai",
@@ -456,7 +456,7 @@
                 "open_issues": 5,
                 "owner": "ysymyth",
                 "repo": "ReAct",
-                "stars": 4199,
+                "stars": 4200,
                 "topics": [
                   "decision-making",
                   "large-language-models",
@@ -483,7 +483,7 @@
                 "open_issues": 37,
                 "owner": "kzl",
                 "repo": "decision-transformer",
-                "stars": 2838,
+                "stars": 2839,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:58:09.036Z"
@@ -519,7 +519,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T02:45:47.865Z",
+    "last_updated": "2026-10-05T02:08:19.763Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Reasoning LLM Tutorial/Survey/Guide",
@@ -531,7 +531,7 @@
       "open_issues": 21,
       "owner": "mbzuai-oryx",
       "repo": "Awesome-LLM-Post-training",
-      "stars": 2566,
+      "stars": 2567,
       "topics": [
         "fine",
         "large-language-models",
