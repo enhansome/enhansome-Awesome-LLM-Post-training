@@ -161,11 +161,11 @@
                 "id": 250510075,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T10:28:41Z",
-                "open_issues": 266,
+                "last_commit": "2026-10-07T02:14:07Z",
+                "open_issues": 253,
                 "owner": "huggingface",
                 "repo": "trl",
-                "stars": 19454,
+                "stars": 19461,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:58:09.036Z"
@@ -281,10 +281,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-05T19:09:19Z",
-                "open_issues": 1327,
+                "open_issues": 1331,
                 "owner": "verl-project",
                 "repo": "verl",
-                "stars": 23754,
+                "stars": 23761,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:58:09.036Z"
@@ -305,7 +305,7 @@
                 "open_issues": 102,
                 "owner": "CarperAI",
                 "repo": "trlx",
-                "stars": 4754,
+                "stars": 4755,
                 "topics": [
                   "machine-learning",
                   "pytorch",
@@ -366,7 +366,7 @@
                 "open_issues": 1172,
                 "owner": "hiyouga",
                 "repo": "LlamaFactory",
-                "stars": 75333,
+                "stars": 75338,
                 "topics": [
                   "agent",
                   "ai",
@@ -519,7 +519,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:34:24.042Z",
+    "last_updated": "2026-10-07T02:29:50.753Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Reasoning LLM Tutorial/Survey/Guide",
@@ -531,7 +531,7 @@
       "open_issues": 21,
       "owner": "mbzuai-oryx",
       "repo": "Awesome-LLM-Post-training",
-      "stars": 2568,
+      "stars": 2570,
       "topics": [
         "fine",
         "large-language-models",
