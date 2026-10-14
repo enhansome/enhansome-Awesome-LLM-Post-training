@@ -42,7 +42,7 @@
                 "open_issues": 10,
                 "owner": "KhoomeiK",
                 "repo": "LlamaGym",
-                "stars": 1254,
+                "stars": 1253,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:58:09.036Z"
@@ -161,11 +161,11 @@
                 "id": 250510075,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T03:37:08Z",
-                "open_issues": 269,
+                "last_commit": "2026-10-13T18:38:26Z",
+                "open_issues": 272,
                 "owner": "huggingface",
                 "repo": "trl",
-                "stars": 19500,
+                "stars": 19509,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:58:09.036Z"
@@ -280,11 +280,11 @@
                 "id": 881221486,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T03:33:33Z",
-                "open_issues": 1350,
+                "last_commit": "2026-10-14T01:47:52Z",
+                "open_issues": 1346,
                 "owner": "verl-project",
                 "repo": "verl",
-                "stars": 23840,
+                "stars": 23857,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:58:09.036Z"
@@ -305,7 +305,7 @@
                 "open_issues": 102,
                 "owner": "CarperAI",
                 "repo": "trlx",
-                "stars": 4756,
+                "stars": 4757,
                 "topics": [
                   "machine-learning",
                   "pytorch",
@@ -363,10 +363,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-10T07:29:23Z",
-                "open_issues": 1186,
+                "open_issues": 1187,
                 "owner": "hiyouga",
                 "repo": "LlamaFactory",
-                "stars": 75431,
+                "stars": 75456,
                 "topics": [
                   "agent",
                   "ai",
@@ -456,7 +456,7 @@
                 "open_issues": 5,
                 "owner": "ysymyth",
                 "repo": "ReAct",
-                "stars": 4218,
+                "stars": 4220,
                 "topics": [
                   "decision-making",
                   "large-language-models",
@@ -483,7 +483,7 @@
                 "open_issues": 37,
                 "owner": "kzl",
                 "repo": "decision-transformer",
-                "stars": 2841,
+                "stars": 2842,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:58:09.036Z"
@@ -504,7 +504,7 @@
                 "open_issues": 16,
                 "owner": "openai",
                 "repo": "lm-human-preferences",
-                "stars": 1389,
+                "stars": 1390,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:58:09.036Z"
@@ -519,7 +519,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T03:39:48.222Z",
+    "last_updated": "2026-10-14T02:00:01.719Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Reasoning LLM Tutorial/Survey/Guide",
@@ -531,7 +531,7 @@
       "open_issues": 21,
       "owner": "mbzuai-oryx",
       "repo": "Awesome-LLM-Post-training",
-      "stars": 2575,
+      "stars": 2576,
       "topics": [
         "fine",
         "large-language-models",
