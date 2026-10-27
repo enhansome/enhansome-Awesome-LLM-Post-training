@@ -161,11 +161,11 @@
                 "id": 250510075,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-25T20:14:06Z",
-                "open_issues": 283,
+                "last_commit": "2026-10-27T00:24:28Z",
+                "open_issues": 296,
                 "owner": "huggingface",
                 "repo": "trl",
-                "stars": 19600,
+                "stars": 19607,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:58:09.036Z"
@@ -207,7 +207,7 @@
                 "open_issues": 53,
                 "owner": "allenai",
                 "repo": "RL4LMs",
-                "stars": 2397,
+                "stars": 2398,
                 "topics": [
                   "dialogue-generation",
                   "language-modeling",
@@ -280,11 +280,11 @@
                 "id": 881221486,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-25T21:09:27Z",
-                "open_issues": 1407,
+                "last_commit": "2026-10-27T01:43:24Z",
+                "open_issues": 1394,
                 "owner": "verl-project",
                 "repo": "verl",
-                "stars": 24013,
+                "stars": 24027,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:58:09.036Z"
@@ -302,7 +302,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-01-08T20:07:19Z",
-                "open_issues": 102,
+                "open_issues": 103,
                 "owner": "CarperAI",
                 "repo": "trlx",
                 "stars": 4756,
@@ -363,10 +363,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-21T07:23:24Z",
-                "open_issues": 1205,
+                "open_issues": 1206,
                 "owner": "hiyouga",
                 "repo": "LlamaFactory",
-                "stars": 75729,
+                "stars": 75739,
                 "topics": [
                   "agent",
                   "ai",
@@ -519,7 +519,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T01:22:23.646Z",
+    "last_updated": "2026-10-27T02:10:34.174Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Reasoning LLM Tutorial/Survey/Guide",
