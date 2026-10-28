@@ -161,11 +161,11 @@
                 "id": 250510075,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T00:24:28Z",
-                "open_issues": 296,
+                "last_commit": "2026-10-27T17:47:25Z",
+                "open_issues": 295,
                 "owner": "huggingface",
                 "repo": "trl",
-                "stars": 19607,
+                "stars": 19613,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:58:09.036Z"
@@ -280,11 +280,11 @@
                 "id": 881221486,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T01:43:24Z",
-                "open_issues": 1394,
+                "last_commit": "2026-10-27T12:14:43Z",
+                "open_issues": 1398,
                 "owner": "verl-project",
                 "repo": "verl",
-                "stars": 24027,
+                "stars": 24040,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:58:09.036Z"
@@ -363,10 +363,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-21T07:23:24Z",
-                "open_issues": 1206,
+                "open_issues": 1209,
                 "owner": "hiyouga",
                 "repo": "LlamaFactory",
-                "stars": 75739,
+                "stars": 75748,
                 "topics": [
                   "agent",
                   "ai",
@@ -456,7 +456,7 @@
                 "open_issues": 5,
                 "owner": "ysymyth",
                 "repo": "ReAct",
-                "stars": 4247,
+                "stars": 4249,
                 "topics": [
                   "decision-making",
                   "large-language-models",
@@ -504,7 +504,7 @@
                 "open_issues": 16,
                 "owner": "openai",
                 "repo": "lm-human-preferences",
-                "stars": 1389,
+                "stars": 1388,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:58:09.036Z"
@@ -519,7 +519,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T02:10:34.174Z",
+    "last_updated": "2026-10-28T02:25:48.026Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Reasoning LLM Tutorial/Survey/Guide",
