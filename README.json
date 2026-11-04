@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "RL4VLM",
                 "repo": "RL4VLM",
-                "stars": 416,
+                "stars": 417,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:58:09.036Z"
@@ -63,7 +63,7 @@
                 "open_issues": 2,
                 "owner": "masa-ue",
                 "repo": "RLfinetuning_Diffusion_Bioseq",
-                "stars": 159,
+                "stars": 160,
                 "topics": [
                   "diffusion-models",
                   "rl"
@@ -161,11 +161,11 @@
                 "id": 250510075,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-02T23:39:57Z",
-                "open_issues": 328,
+                "last_commit": "2026-11-03T23:38:48Z",
+                "open_issues": 314,
                 "owner": "huggingface",
                 "repo": "trl",
-                "stars": 19660,
+                "stars": 19666,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:58:09.036Z"
@@ -280,11 +280,11 @@
                 "id": 881221486,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-03T02:41:43Z",
-                "open_issues": 1440,
+                "last_commit": "2026-11-04T02:38:11Z",
+                "open_issues": 1451,
                 "owner": "verl-project",
                 "repo": "verl",
-                "stars": 24111,
+                "stars": 24121,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:58:09.036Z"
@@ -362,11 +362,11 @@
                 "id": 646410686,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-31T10:28:10Z",
-                "open_issues": 1219,
+                "last_commit": "2026-11-03T12:54:27Z",
+                "open_issues": 1216,
                 "owner": "hiyouga",
                 "repo": "LlamaFactory",
-                "stars": 75859,
+                "stars": 75874,
                 "topics": [
                   "agent",
                   "ai",
@@ -456,7 +456,7 @@
                 "open_issues": 5,
                 "owner": "ysymyth",
                 "repo": "ReAct",
-                "stars": 4259,
+                "stars": 4264,
                 "topics": [
                   "decision-making",
                   "large-language-models",
@@ -519,7 +519,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T03:57:22.530Z",
+    "last_updated": "2026-11-04T03:03:18.777Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Reasoning LLM Tutorial/Survey/Guide",
