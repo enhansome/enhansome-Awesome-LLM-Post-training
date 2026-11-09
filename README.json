@@ -161,11 +161,11 @@
                 "id": 250510075,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-07T18:31:50Z",
-                "open_issues": 301,
+                "last_commit": "2026-11-08T21:51:28Z",
+                "open_issues": 307,
                 "owner": "huggingface",
                 "repo": "trl",
-                "stars": 19687,
+                "stars": 19693,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:58:09.036Z"
@@ -280,11 +280,11 @@
                 "id": 881221486,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T10:51:47Z",
-                "open_issues": 1463,
+                "last_commit": "2026-11-09T01:42:32Z",
+                "open_issues": 1476,
                 "owner": "verl-project",
                 "repo": "verl",
-                "stars": 24163,
+                "stars": 24167,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:58:09.036Z"
@@ -362,11 +362,11 @@
                 "id": 646410686,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T12:20:51Z",
-                "open_issues": 1220,
+                "last_commit": "2026-11-09T02:35:16Z",
+                "open_issues": 1221,
                 "owner": "hiyouga",
                 "repo": "LlamaFactory",
-                "stars": 75931,
+                "stars": 75947,
                 "topics": [
                   "agent",
                   "ai",
@@ -456,7 +456,7 @@
                 "open_issues": 5,
                 "owner": "ysymyth",
                 "repo": "ReAct",
-                "stars": 4267,
+                "stars": 4270,
                 "topics": [
                   "decision-making",
                   "large-language-models",
@@ -519,7 +519,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T02:34:15.297Z",
+    "last_updated": "2026-11-09T02:45:50.673Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Reasoning LLM Tutorial/Survey/Guide",
