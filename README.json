@@ -98,7 +98,7 @@
               "description": "Implements pre-training, supervised fine-tuning (SFT), and reinforcement learning from human feedback (RLHF) to train and fine-tune the LLaMA2 model to follow human instructions, similar to InstructGPT or ChatGPT.",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "Implements pre-training, supervised fine-tuning (SFT), and reinforcement learning from human feedback (RLHF), to train and fine-tune the LLaMA2 model to follow human instructions, similar to InstructGPT or ChatGPT, but on a much smaller scale.",
                 "homepage": null,
                 "id": 663944322,
@@ -161,11 +161,11 @@
                 "id": 250510075,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-12T23:21:41Z",
-                "open_issues": 301,
+                "last_commit": "2026-11-13T23:51:28Z",
+                "open_issues": 299,
                 "owner": "huggingface",
                 "repo": "trl",
-                "stars": 19729,
+                "stars": 19733,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:58:09.036Z"
@@ -280,11 +280,11 @@
                 "id": 881221486,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T02:56:25Z",
-                "open_issues": 1496,
+                "last_commit": "2026-11-13T13:56:29Z",
+                "open_issues": 1498,
                 "owner": "verl-project",
                 "repo": "verl",
-                "stars": 24214,
+                "stars": 24224,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:58:09.036Z"
@@ -362,11 +362,11 @@
                 "id": 646410686,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-12T12:44:33Z",
-                "open_issues": 1239,
+                "last_commit": "2026-11-13T13:16:48Z",
+                "open_issues": 1245,
                 "owner": "hiyouga",
                 "repo": "LlamaFactory",
-                "stars": 76022,
+                "stars": 76031,
                 "topics": [
                   "agent",
                   "ai",
@@ -456,7 +456,7 @@
                 "open_issues": 5,
                 "owner": "ysymyth",
                 "repo": "ReAct",
-                "stars": 4276,
+                "stars": 4278,
                 "topics": [
                   "decision-making",
                   "large-language-models",
@@ -519,7 +519,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T03:27:21.739Z",
+    "last_updated": "2026-11-14T03:23:18.961Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Reasoning LLM Tutorial/Survey/Guide",
