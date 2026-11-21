@@ -161,11 +161,11 @@
                 "id": 250510075,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T23:33:14Z",
-                "open_issues": 306,
+                "last_commit": "2026-11-20T22:40:33Z",
+                "open_issues": 307,
                 "owner": "huggingface",
                 "repo": "trl",
-                "stars": 19775,
+                "stars": 19784,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:58:09.036Z"
@@ -280,11 +280,11 @@
                 "id": 881221486,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T03:09:41Z",
-                "open_issues": 1525,
+                "last_commit": "2026-11-20T18:48:57Z",
+                "open_issues": 1522,
                 "owner": "verl-project",
                 "repo": "verl",
-                "stars": 24288,
+                "stars": 24298,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:58:09.036Z"
@@ -366,7 +366,7 @@
                 "open_issues": 1255,
                 "owner": "hiyouga",
                 "repo": "LlamaFactory",
-                "stars": 76143,
+                "stars": 76166,
                 "topics": [
                   "agent",
                   "ai",
@@ -456,7 +456,7 @@
                 "open_issues": 5,
                 "owner": "ysymyth",
                 "repo": "ReAct",
-                "stars": 4288,
+                "stars": 4292,
                 "topics": [
                   "decision-making",
                   "large-language-models",
@@ -519,7 +519,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T04:03:59.768Z",
+    "last_updated": "2026-11-21T04:04:56.259Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Reasoning LLM Tutorial/Survey/Guide",
