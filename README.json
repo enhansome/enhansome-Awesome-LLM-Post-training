@@ -161,11 +161,11 @@
                 "id": 250510075,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-25T17:45:48Z",
-                "open_issues": 278,
+                "last_commit": "2026-11-26T14:58:54Z",
+                "open_issues": 292,
                 "owner": "huggingface",
                 "repo": "trl",
-                "stars": 19832,
+                "stars": 19841,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:58:09.036Z"
@@ -259,7 +259,7 @@
                 "open_issues": 1,
                 "owner": "WooooDyy",
                 "repo": "LLM-Reverse-Curriculum-RL",
-                "stars": 117,
+                "stars": 118,
                 "topics": [
                   "llm",
                   "reasoning",
@@ -280,11 +280,11 @@
                 "id": 881221486,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-26T03:45:48Z",
-                "open_issues": 1571,
+                "last_commit": "2026-11-27T03:06:43Z",
+                "open_issues": 1563,
                 "owner": "verl-project",
                 "repo": "verl",
-                "stars": 24358,
+                "stars": 24368,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:58:09.036Z"
@@ -363,10 +363,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-25T04:38:40Z",
-                "open_issues": 1265,
+                "open_issues": 1272,
                 "owner": "hiyouga",
                 "repo": "LlamaFactory",
-                "stars": 76286,
+                "stars": 76300,
                 "topics": [
                   "agent",
                   "ai",
@@ -519,7 +519,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T05:13:08.403Z",
+    "last_updated": "2026-11-27T05:11:05.366Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Reasoning LLM Tutorial/Survey/Guide",
